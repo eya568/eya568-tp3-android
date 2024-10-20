@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">art space</string>
+    <string name="artwork_title1">lake with goose</string>
+    <string name="artwork_title2">lake with flowers</string>
+    <string name="artwork_title3">lake with white flowers</string>
+
+    <string name="artwork_desc1">Donec lectus eros, dignissim at odio eu, convallis viverra turpis. Praesent nunc dui, ullamcorper ut volutpat a, ornare sed elit. </string>
+    <string name="artwork_desc2"> lectus sagittis augue, a gravida ante massa id velit. Sed mattis lacus ac dui pharetra, semper mattis augue hendrerit. Nulla ornare vitae ligula a aliquet.</string>
+    <string name="artwork_desc3">mi convallis quis. Ut ut dapibus mauris. Phasellus lectus nulla, congue in tincidunt id, auctor at est. Nulla bibendum convallis sollicitudin.</string>
+
+    <string name="artis1">Nulla mollis</string>
+    <string name="artis2">Donec finibus</string>
+    <string name="artis3">nulla tempus</string>
+
+
+
+
+
+</resources>
